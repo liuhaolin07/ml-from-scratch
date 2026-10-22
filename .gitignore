@@ -1,0 +1,21 @@
+# python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# data & models
+data/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# media
+voice/*.m4a
+voice/*.mp3
+voice/*.wav
+
+# os
+.DS_Store
+Thumbs.db
