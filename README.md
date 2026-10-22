@@ -1,5 +1,8 @@
 # ml-from-scratch
 
+> 仓库：https://github.com/liuhaolin07/ml-from-scratch
+> 每周交五样：代码、数字、笔记、录音、周报。
+
 13 周，从 NumPy 到 Transformer。每一周交同样的五样东西：代码、数字、笔记、录音、周报。
 
 > 规则写在 `CONTRACT.md`。没交齐，就当这周没完成。
